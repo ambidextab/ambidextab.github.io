@@ -14,7 +14,6 @@ permalink: /about/
   <div class="manual manual-title">
   <strong>English</strong>
   </div>
-<p>  <div class="manual-content">
 Name: ambidextab  
 Birthdate: 2005.11.21.  
 Birthplace: Jeju, Republic of Korea  
@@ -28,14 +27,12 @@ Bucket List:
 2. Developing an AI which develops AIs
 3. Making my own programming language
 4. Fully understanding quantum mechanics
-</p>
 </div>
 
 <div class="manual-post">
   <div class="manual manual-title">
   <strong>Korean</strong>
   </div>
-<p>  <div class="manual-content">
 이름: ambidextab  
 생년월일: 2005.11.21.  
 출생지: 대한민국 제주도  
@@ -49,6 +46,5 @@ Bucket List:
 2. AI를 개발하는 AI 개발하기
 3. 프로그래밍 언어 개발하기
 4. 양자역학 완전히 이해하기
-</p>
 </div>
 
