@@ -14,7 +14,8 @@ permalink: /about/
   <div class="manual manual-title">
   <strong>English</strong>
   </div>
-Name: ambidextab  
+Name: ambidextab
+
 Birthdate: 2005.11.21.  
 Birthplace: Jeju, Republic of Korea  
 Role Models: Dennis MacAlistair Ritchie, Alan Mathison Turing, John von Neumann, Albert Einstein, Stephen William Hawking  
