@@ -37,10 +37,7 @@ Bucket List:
 <br>
 3. Making my own programming language
 <br>
-4. Fully understanding quantum mechanics
-<br>
-<br>  
-<br>  
+4. Fully understanding quantum mechanics 
 </div>
 </p>
 </div>
