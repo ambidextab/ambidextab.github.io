@@ -7,7 +7,7 @@ permalink: /about/
 <h2>iambidextab</h2>
 <p>ambidextab official page: iambidextab</p>
 <br>
-<center><p ><strong><span class="manual">A Combination of SCIENCE and ART,</span> ambidextab</strong></p></center>
+<center><p ><strong><span class="manual">Enjoy SCIENCE and ART Together with</span> ambidextab</strong></p></center>
 <br>
 <p>Self-Introduction</p>
 <div class="manual-post">
