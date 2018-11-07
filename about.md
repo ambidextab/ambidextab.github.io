@@ -35,6 +35,7 @@ Bucket List:
   <strong>Korean</strong>
   </div>
 이름: ambidextab  
+  
 생년월일: 2005.11.21.  
 출생지: 대한민국 제주도  
 롤 모델: Dennis MacAlistair Ritchie, Alan Mathison Turing, John von Neumann, Albert Einstein, Stephen William Hawking  
