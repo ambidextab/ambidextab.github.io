@@ -28,7 +28,7 @@ Likes: Computer, Programming, Math, Science
 Hates: Cheese, Wasting Time  
 <br>
 Favorite Programming Languages: C, C#, Python  
-<br>
+<br><br>
 Bucket List:
 <br>
 1. Dining with Larry Page
@@ -60,6 +60,7 @@ Bucket List:
 싫어하는 것들: 치즈, 시간 낭비  
 <br>
 가장 좋아하는 프로그래밍 언어들: C, C#, Python  
+<br>
 <br>
 버킷 리스트:
 <br>
